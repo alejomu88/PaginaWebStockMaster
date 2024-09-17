@@ -48,6 +48,7 @@ function iniciarSesion(){
 }
 
 
+
 function register(){
 
     if(window.innerWidth > 850){
