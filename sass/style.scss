@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(../../imagenes/—Pngtree—abstract\ particle\ background\ data\ illustration_1229999.jpg);
+    background-image: url(../imagenes/—Pngtree—abstract\ particle\ background\ data\ illustration_1229999.jpg);
     background: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -96,7 +96,6 @@ main{
     color: #848789 ;    
 }
 
-
 .contenedor__login-register form input{
     width: 100%;
     margin-top: 20px;
@@ -107,15 +106,14 @@ main{
     outline: none;
 }
 
-.contenedor__login-register form button{
-    padding: 10px 40px;
-    margin-top: 40px;
-    border: none;
-    font-size: 14px;
-    background: #848789;
-    color: #FDFEFE;
-    cursor: pointer;
-    outline: none;
+.btn1{
+    display: inline-block;
+    margin-bottom: 25px;
+    background-color: #727171ce;
+    padding: 10px 45px;
+    color: #f2f2f2;
+    margin-top: 25px;
+    border-radius: 15px;
 }
 
 .formulario__login{
